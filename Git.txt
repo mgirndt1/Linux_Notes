@@ -1,0 +1,5 @@
+
+
+git add file name
+git commit -m "verbage"
+git push -u origin master
