@@ -3,3 +3,6 @@
 git add file name
 git commit -m "verbage"
 git push -u origin master
+
+##copy repo to local machine
+git clone xxxx
