@@ -4,5 +4,8 @@ git add file name
 git commit -m "verbage"
 git push -u origin master
 
+##pull most up to date copy 
+git pull
+
 ##copy repo to local machine
 git clone xxxx
