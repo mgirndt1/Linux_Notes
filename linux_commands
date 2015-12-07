@@ -1,2 +1,6 @@
+
 ## REMOVE OLDER THAN
 find /path/to/files* -mtime +5 -exec rm {} \;
+  -removes files older than 5 days
+
+  
